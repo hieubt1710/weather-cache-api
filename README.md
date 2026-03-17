@@ -12,7 +12,7 @@ This project is a RESTful Weather API built with .NET 10 Minimal APIs. It fetche
 - **Unit Testing:** Includes an xUnit test project using `WebApplicationFactory` and `Moq` to verify caching logic without hitting external services.
 
 ## Tech Stack
-- C# / .NET 8 (Minimal APIs)
+- C# / .NET 10 (Minimal APIs)
 - StackExchange.Redis
 - xUnit & Moq (Testing)
 
