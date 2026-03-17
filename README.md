@@ -1,6 +1,6 @@
 # Weather API with Redis Caching
 
-This is a solution to the [Weather API project](https://roadmap.sh/projects/weather-api) on roadmap.sh. 
+This is a solution to the [Weather API project](https://roadmap.sh/projects/weather-api-wrapper-service) on roadmap.sh. 
 
 ## Overview
 This project is a RESTful Weather API built with .NET 10 Minimal APIs. It fetches real-time weather data from the Visual Crossing API and uses a Redis distributed cache to store the results for 12 hours. This drastically reduces external API calls and improves response times. 
